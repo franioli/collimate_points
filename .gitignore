@@ -2,6 +2,7 @@
 data/
 project/
 export/
+metashape_installer/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
