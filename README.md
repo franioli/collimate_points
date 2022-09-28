@@ -35,5 +35,5 @@ source ~/.bashrc
 check if the new environment is present:
 
 ```bash
-end
+printenv | grep agisoft
 ```
