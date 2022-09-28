@@ -15,7 +15,7 @@ Metashape license: You need a license (and associated license file) for Metashap
 ### Setup agisoft_LICENSE environment variable
 
 ```bash
-export agisoft_LICENSE=port@ip
+export agisoft_LICENSE="port"@"ip"
 ```
 
 check if the new environment is present:
