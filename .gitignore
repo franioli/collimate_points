@@ -3,6 +3,7 @@ data/
 project/
 export/
 metashape_installer/
+targets/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
